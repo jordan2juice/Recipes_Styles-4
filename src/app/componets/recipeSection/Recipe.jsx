@@ -2,6 +2,7 @@
 
 import React from "react";
 import { Card, CardBody, CardFooter, CardHeader } from "react-bootstrap";
+import { motion } from "framer-motion";
 
 export default function Recipe() {
   return (
