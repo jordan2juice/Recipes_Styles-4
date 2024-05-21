@@ -1,3 +1,56 @@
+# Recipe Cards with styles
+
+This simple page is styled with bootstrap and tailwind.
+
+## Card Components
+
+- Recipe Card
+- Recipe Details
+- Recipe images
+- Recipe Ingredients
+
+## Styling the Recipe cards
+
+I used React Bootstrap to build the cards. The cards body and pieces where directly from bootstrap.
+I used Tailwind to style the cards. I used the utility classes to style the cards. I used the utility classes to style the cards
+I used the utility classes to style the cards. I used the utility classes to style the cards.
+
+## React-Bootstrap
+
+React-Bootstrap replaces the Bootstrap JavaScript. It is a React component library that integrates with Bootstrap CSS classes.
+
+To use React-Bootstrap, add the following import statement to your project:
+
+```jsx
+import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
+import "bootstrap/dist/css/bootstrap.min.css";
+```
+
+## Tailwind
+
+Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
+
+To use Tailwind, add the following import statement to your project:
+
+```jsx
+import "tailwindcss/tailwind.css";
+```
+
+## Next.js
+
+Next.js is a React-based framework for building websites and web applications.
+
+To use Next.js, add the following import statement to your project:
+
+```jsx
+import Link from "next/link";
+```
+
+## Usage
+
+To get started, we recommend following the [Next.js documentation](https://nextjs.org/docs).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
